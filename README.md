@@ -1,7 +1,7 @@
 ### Hi My name is Ji-Hyun Beom 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomjihyun&layout=donut)]([https://github.com/Beomjihyun/github-readme-stats])
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomjihyun&show_icons=true&theme=radical)
 
 <!--
 **Beomjihyun/Beomjihyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
