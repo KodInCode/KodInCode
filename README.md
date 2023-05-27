@@ -1,11 +1,13 @@
 ###Hi My name is Ji-Hyun Beom 👋 
 
 
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomjihyun&show_icons=true&theme=onedark) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomjihyun&layout=donut-vertical)](https://github.com/Beomjihyun/github-readme-stats)
 
 
 
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomjihyun&show_icons=true&theme=onedark) 
+
 
 
 <!--
