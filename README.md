@@ -1,4 +1,4 @@
-<div align="center" text style=bold>
+<div align="center" text style=bord>
    Hi👋 My name is Ji-Hyun Beom:)
 </div>
   
