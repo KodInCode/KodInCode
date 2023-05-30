@@ -1,6 +1,7 @@
-<div align="center" text style=bord>
-   Hi👋 My name is Ji-Hyun Beom:)
+<div align="center">
+   <h2>Hi👋 My name is Ji-Hyun Beom:)</h2>
 </div>
+<hr/>
   
 
 
