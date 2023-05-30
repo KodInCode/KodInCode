@@ -1,5 +1,5 @@
-<div align="center">
-  ### Hi👋 My name is Ji-Hyun Beom:)
+<div align="center" textstyle=bold>
+   Hi👋 My name is Ji-Hyun Beom:)
 </div>
   
 
