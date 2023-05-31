@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Welcome&fontSize=90)
 <div align="center">
    <h2>Hi👋 My name is Ji-Hyun Beom:)</h2>
 </div>
