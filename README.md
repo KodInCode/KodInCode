@@ -2,6 +2,9 @@
 <div align="center">
    <h2>Hi👋 My name is Ji-Hyun Beom:)</h2>
 </div>
+<div align="center">
+   <h4>skils</h4>
+</div>
 <hr/>
   
 
