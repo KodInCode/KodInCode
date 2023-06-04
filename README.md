@@ -4,7 +4,7 @@
 </div>    
 <div align="center">
    <h4>skils</h4>
-   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>\n
    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-006600?style=flat-square&logo=pycharm&logoColor=white"/>
 </div>
 <hr/>
