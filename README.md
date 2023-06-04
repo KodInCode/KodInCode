@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=auto&height=200&section=header&text=H&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JihyunGitHub!&fontSize=30&animation=fadeIn)
 <div align="center">
    <h2>Hi👋 My name is Ji-Hyun Beom:)</h2>
 </div>    
@@ -20,7 +20,7 @@
 
 
 
-<!--4
+<!--customColorList=auto4
 **Beomjihyun/Beomjihyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
