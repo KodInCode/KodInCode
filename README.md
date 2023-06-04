@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn)
 <div align="center">
    <h2>Hi👋 My name is Ji-Hyun Beom:)</h2>
-</div>    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bumjh0907@gmail.com)](mailto:bumjh0907@gmail.com)
-
+</div>    
 <div align="center">
    <h4>skils</h4>
 </div>
@@ -12,7 +11,7 @@
 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomjihyun&show_icons=true&theme=onedark) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomjihyun&layout=donut-vertical)](https://github.com/Beomjihyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomjihyun&layout=list-vertical)](https://github.com/Beomjihyun/github-readme-stats)
 
 
 
