@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihyun's%20GitHub!&fontSize=70&animation=fadeIn)
 <div align="center"> 
-   <h2>Hi My name is Ji-Hyun Beom</h2>
+   <h2>Hi~ My name is Ji-Hyun Beom</h2>
 </div>    
 
 <div align="center">
