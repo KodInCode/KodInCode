@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact)](https://github.com/KodInCode/github-readme-stats)
 
+<"\n">
+
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&theme=radical)
 
 </div>
