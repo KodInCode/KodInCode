@@ -14,7 +14,7 @@
 <hr/>
 
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact)](https://github.com/KodInCode/github-readme-stats)
