@@ -18,6 +18,6 @@
 
 <br>
 
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&include_all_commits=true&theme=radical&count_private=true)(https://github.com/KodInCode/github-readme-stats)
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&include_all_commits=true&theme=radical&count_private=true)
 
 </div>
