@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Jihyun's\nGitHub!&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Jihyun's&nbspGitHub!&fontSize=30&animation=fadeIn)
 
 <!--!<div align="center"> 
    <h2>Ji-Hyun Beom</h2>
