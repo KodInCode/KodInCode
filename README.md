@@ -17,7 +17,7 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact)](https://github.com/KodInCode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact&theme=solarized-light)](https://github.com/KodInCode/github-readme-stats)
 
 <br>
 
