@@ -29,9 +29,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&theme=solarized-light" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact&theme=solarized-light" alt="Top Languages" />
 </div>
-  
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact&theme=solarized-light)](https://github.com/KodInCode/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&theme=solarized-light)
-
+-->
 </div>
