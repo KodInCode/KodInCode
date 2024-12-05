@@ -26,8 +26,8 @@
 
 
 <div align="center">
-  <src="https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&theme=solarized-light" />
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact&theme=solarized-light" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KodInCode&show_icons=true&theme=solarized-light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodInCode&layout=compact&theme=solarized-light" alt="Top Languages" />
 </div>
 
 <!--
