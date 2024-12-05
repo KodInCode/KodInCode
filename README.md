@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi~%20I'm%20JiHyun&fontSize=90)
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Jihyun's%20GitHub!&fontSize=40&animation=fadeIn)
 <!--!<div align="center"> 
    <h2>Ji-Hyun Beom</h2>
